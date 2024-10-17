@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Karolina, I’m a biologist currently broadening my horizons in the field of bioinformatics, particularly in data analysis.
+
 - 🔭 I’m currently working on [easycheck](https://github.com/nyggus/easycheck), a module that offers Python functions for simple and readable assertion-like checks.
 - 🌱 I’m currently learning programming in Python and R/Shiny.
 - 👯 I’m looking to collaborate on pharmaceutical and medical projects.
