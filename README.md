@@ -9,4 +9,9 @@ I’m a biologist currently broadening my horizons in the field of bioinformatic
 
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![karollayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=karollayna&hide=stars,issues&show_icons=true&hide_rank=true&show=prs_merged_percentage)](https://github.com/karollayna/github-readme-stats)
+[![karollayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=karollayna&hide=stars,issues&show_icons=true&show=prs_merged_percentage)](https://github.com/karollayna/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karollayna&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=500px)
+
+
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
