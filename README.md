@@ -9,8 +9,8 @@ I’m a biologist currently broadening my horizons in the field of bioinformatic
 
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![karollayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=karollayna&hide=stars,issues&show_icons=true&show=prs_merged_percentage)](https://github.com/karollayna/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karollayna&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=500px)
+[![karollayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=karollayna&hide=stars,issues&show_icons=true&show=prs_merged_percentage&card_width=450px)](https://github.com/karollayna/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karollayna&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=450px)
 
 
 # 💻 Tech Stack:
