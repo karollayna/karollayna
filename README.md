@@ -4,7 +4,7 @@ I’m a biologist currently broadening my horizons in the field of bioinformatic
 
 - 🌱 I’m learning programming in Python and R/Shiny.
   
-- 👯 I'm a co-author of Bioconductor package [igvShiny](https://gladkia.github.io/igvShiny/), an htmlwidget version of igv for RStudio and Shiny apps.
+- 👯 I'm a co-author of Bioconductor package [igvShiny](https://gladkia.github.io/igvShiny/), an htmlwidget version of igv for RStudio and Shiny apps ([my branches](https://github.com/karollayna/igvShiny/branches/yours)).
   
 - 🔭 I’m currently working on [easycheck](https://github.com/nyggus/easycheck), a module that offers Python functions for simple and readable assertion-like checks.
   
