@@ -3,6 +3,8 @@
 I’m a biologist currently broadening my horizons in the field of bioinformatics, particularly in data analysis.
 
 - 🌱 I’m learning programming in Python and R/Shiny.
+
+- 🔭 I'm currently taking a course on Udemy about Tkinter. This course focuses on learning how to create graphical user interfaces (GUIs) using Python's Tkinter library.
   
 - 👯 I'm a co-author of Bioconductor package [igvShiny](https://gladkia.github.io/igvShiny/), an htmlwidget version of igv for RStudio and Shiny apps.
   <br>You can explore my contributions across all branches [here](https://github.com/karollayna/igvShiny/branches/yours).
