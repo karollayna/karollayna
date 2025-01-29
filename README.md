@@ -1,6 +1,6 @@
 ### Hi, I'm Karolina 👋
 
-I’m a biologist currently broadening my horizons in the field of bioinformatics, particularly in data analysis.
+I’m a biologist currently broadening my horizons in the field of bioinformatics, particularly in data engineering.
 
 - 🌱 I’m learning programming in Python and R/Shiny.
 
