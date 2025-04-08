@@ -1,8 +1,7 @@
-### Hi, I'm Karolina 👋
+### 🧬 Hi, I'm a biologist currently expanding my horizons in bioinformatics,<br>with a particular focus on data engineering.
 
-I’m a biologist currently broadening my horizons in the field of bioinformatics, particularly in data engineering.
+- 😎 I'm a mentee in the DestinationIT Vol. 3 mentorship program by Roche Polska!
 
-- 🌱 I’m learning programming in Python and R/Shiny.
 - 🔍 See my dashboard [smart-data-analyzer](https://github.com/karollayna/smart-data-analyzer) where I used:  
   ![Streamlit](https://img.shields.io/badge/Streamlit-%2300FF00.svg?style=for-the-badge&logo=streamlit&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,10 +10,6 @@ I’m a biologist currently broadening my horizons in the field of bioinformatic
   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-- 😎 I'm a mentee in the DestinationIT Vol. 3 mentorship program by Roche Polska!
-  
 - 👯 I'm a co-author of Bioconductor package [igvShiny](https://gladkia.github.io/igvShiny/), an htmlwidget version of igv for RStudio and Shiny apps.
   <br>You can explore my contributions across all branches [here](https://github.com/karollayna/igvShiny/branches/yours).
   
