@@ -3,6 +3,15 @@
 I’m a biologist currently broadening my horizons in the field of bioinformatics, particularly in data engineering.
 
 - 🌱 I’m learning programming in Python and R/Shiny.
+- 🔍 See my dashboard [smart-data-analyzer](https://github.com/karollayna/smart-data-analyzer) where I used:  
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%2300FF00.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 - 😎 I'm a mentee in the DestinationIT Vol. 3 mentorship program by Roche Polska!
   
