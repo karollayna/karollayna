@@ -1,6 +1,6 @@
 ### 🧬 Hi, I'm a biologist currently expanding my horizons in bioinformatics,<br>with a particular focus on data engineering.
 
-- 😎 I'm a mentee in the **DestinationIT Vol. 3** mentorship program by **Roche Polska**!
+- 😎 I was a mentee in the **DestinationIT Vol. 3** mentorship program by **Roche Polska**!
 
 - 🔍 See my dashboard [smart-data-analyzer](https://github.com/karollayna/smart-data-analyzer) where I used:  
   ![Streamlit](https://img.shields.io/badge/Streamlit-%2300FF00.svg?style=for-the-badge&logo=streamlit&logoColor=white)
